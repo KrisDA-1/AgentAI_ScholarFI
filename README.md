@@ -1,7 +1,7 @@
 # 🗒️ AgentAI ScholarFI
 ScholarFi which is an AI-powered personal financial coach pursuing the purpose to help international students in London make challenging financial and academic decisions.
 
-https://github.com/user-attachments/assets/b892b140-1929-4920-ad83-0e75dd9c2f7a
+https://github.com/user-attachments/assets/6362f01b-fcd5-47c4-80ec-f8dad4d1395e
 
 ## ✨ Features
 -AI-powered Financial mentor 🖥️<br/> 
