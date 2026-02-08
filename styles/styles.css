@@ -1,0 +1,135 @@
+/* --- HEADER --- */
+
+.header-section h1 {
+    color: #333;
+    font-size: 2.5rem;
+}
+
+.header-section p {
+    color: #555;
+    font-size: 1rem;
+}
+
+/* --- METRIC CARDS --- */
+.metric-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+    margin-bottom: 15px;
+}
+.metric-card h3 {
+    color: #888;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+.metric-card h2 {
+    color: #222;
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+/* --- SECTION CARDS --- */
+.section-card {
+    background-color: #fefefe;
+    border-radius: 12px;
+    padding: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    text-align: center;
+}
+.section-card h3 {
+    color: #333;
+    font-size: 1.2rem;
+}
+.section-card-empty {
+    background-color: #fefefe;
+    border-radius: 12px;
+    padding: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.05);
+    text-align: center;
+}
+.section-card-empty h3 {
+    color: #333;
+    font-size: 1.2rem;
+}
+
+/* --- ALERTS / WARNINGS --- */
+.alert-warning {
+    background-color: #f1effd;
+    border-left: 5px solid #816ffb;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    color: #000000;
+    font-size: 0.95rem;
+}
+
+/* --- PROGRESS BARS --- */
+.custom-progress {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 10px;
+    margin-bottom: 10px;
+}
+.custom-progress-fill {
+    background-color: #816ffb;
+    height: 100%;
+    text-align: right;
+    padding-right: 5px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px 0 0 10px;
+}
+
+.goal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+/* --- BUTTONS --- */
+.stButton > button {
+    background-color: #816ffb;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.stButton > button:hover {
+    background-color: #5a47d1;
+}
+
+/* Sidebar styles */
+[data-testid="stSidebar"] {
+    background-color: #f9f4f4 !important; 
+    padding: 20px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3) !important;
+}
+
+div[role='radiogroup'] > label > div:first-child {
+    display: none !important;
+}
+
+div[role='radiogroup'] > label {
+    background-color: #ffffff;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin-bottom: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+div[role='radiogroup'] > label:hover {
+    background-color: #f4ebeb;
+}
