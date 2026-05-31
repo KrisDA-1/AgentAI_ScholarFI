@@ -23,6 +23,9 @@ https://github.com/user-attachments/assets/6362f01b-fcd5-47c4-80ec-f8dad4d1395e
 ## 🚀 Deployment (Link)
 https://scholarfi.streamlit.app/
 
+<img width="1536" height="1024" alt="scholarfi" src="https://github.com/user-attachments/assets/64a8f026-5e37-47e9-8a9e-35475c820b92" />
+
+
 ## 💡 Lessons Learned
 Organised the team and assigned tasks to meet the requirements within the deadline for the development of ScholarFi, a comprehensive financial mentor based on artificial intelligence. <br/> 
 ▪ Collaborated on a full-stack data solution using Python and PostgreSQL, with an interactive Streamlit and Altair interface to provide clear and user-friendly information. <br/>
